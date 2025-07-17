@@ -22,4 +22,3 @@ const validarCampoObrigatorio = (valor) => {
     valor !== undefined && valor !== null && valor.toString().trim() !== ""
   );
 };
-
