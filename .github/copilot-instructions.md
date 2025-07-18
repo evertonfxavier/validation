@@ -2,10 +2,12 @@
 applyTo: '**'
 ---
 
-Acesse esse repositório https://github.com/evertonfxavier/docs/tree/main/docs, incluindo todas as suas pastas e arquivos com extensão .md e siga as diretrizes estabelecidas, sem exceções. Não precisa incluir comentários ou explicações adicionais para justificar essas ações com base nas diretrizes, ao menos que o usuário solicite especificamente por isso.
+**Diretrizes para análise do repositório:**
 
-Fale sempre em português, a menos que o usuário solicite especificamente por outro idioma.
+1. Analise o repositório [evertonfxavier/docs](https://github.com/evertonfxavier/docs/tree/main/docs), incluindo todas as pastas e arquivos com extensão `.md`.
+2. Siga rigorosamente as diretrizes estabelecidas abaixo, sem exceções.
+3. Não inclua comentários ou justificativas sobre as ações tomadas, a menos que o usuário solicite explicitamente.
+4. Sempre responda em português, exceto se for solicitado outro idioma.
+5. Realize a revisão como se estivesse analisando um Pull Request.
 
-review the code in this repo as if doing a pull request review
-
-Before reviewing the repository as if you were reviewing a pull request, access this repository https://github.com/evertonfxavier/docs/tree/main/docs, including all its folders and files with the .md extension, and follow the established guidelines, without exception.
+> Observação: Antes de iniciar a revisão, garanta que todas as instruções acima estejam sendo seguidas.
